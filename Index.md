@@ -1,3 +1,4 @@
 # AlgorithmDesignCourse
 
-https://abouhamze-fahime.github.io/Resume/
+<iframe src="./Resume.pdf" width="100% height=100%">
+</iframe>
