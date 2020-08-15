@@ -20,12 +20,3 @@ https://abouhamze-fahime.github.io/AlgorithmDesignCourse/Resume.pdf
 
 
 
-
-# مراجع و نمونه ها
-
-
-# نمونه کدها
-
-# ویدیوها
-
-# ویدیوهای مکمل
